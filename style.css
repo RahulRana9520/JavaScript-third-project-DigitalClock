@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #d6c8c8;
+    color:burlywood;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.watch-container {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 4px 40px rgba(0, 0, 0, 0.5);
+}
+
+#time {
+    font-size: 7em;
+    text-align: center;
+}
